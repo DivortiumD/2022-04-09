@@ -1,0 +1,18 @@
+.OuterContainer {
+	border: 3px solid yellow;
+}
+
+.PictureAndName {
+	border: 3px solid blue;
+	pading: 3px 3px 3px 3px;
+	width: 20%;
+        display: inline-block;
+        margin: 5px 5px 5px 5px;
+}
+
+.PictureAndName img {
+	width: 20%;
+        display: inline-block;
+	float: left;
+}
+	
